@@ -5,4 +5,5 @@
   * [1.1 Physics of information](Chapter 1/1.1 Physics of information.md)
   * [1.2 Quantum information](Chapter 1/1.2 Quantum information.md)
   * [1.3 Efficient quantum algorithms](Chapter 1/1.3 Efficient quantum algorithms.md)
+  * [1.4 Quantum complexity](Chapter 1/1.4 Quantum complexity.md)
 
