@@ -9,7 +9,7 @@
   (a,b)\rightarrow\neg(a\wedge b)
   $$
   是2bit输入1bit输出，通过输出无法唯一确定输入。由于这个逻辑门会擦除1bit信息（对所有可能的输入$$a,b$$做平均意义下），于是根据Landauer’s principle的要求，要运行这个逻辑门，外界至少做功$$W=kT\ln2$$。因此，如果供电电量有限，计算时长会存在一个理论上界。左下图是**NAND门**示意：
-  <img src="figures/NAND.jpg"   style="width:200px"/>             <img src="figures/NAND2.png"   style="width:300px"/>
+  <img src="Chapter 1/figures/NAND.jpg"   style="width:200px"/>             <img src="Chapter 1/figures/NAND2.png"   style="width:300px"/>
   
   然而，Bennett(1973)发现任意计算都能用可逆操作实现，因此原理上任意计算都可以没有耗散，即不会消耗能量。例如，我们可以构造上述**NAND门**的可逆版本——**Toffoli门**（右上图）——Toffoli门可以保留所有输入信息：
   $$
