@@ -6,5 +6,5 @@
   * [1.2 Quantum information](Chapter 1/1.2 Quantum information.md)
   * [1.3 Efficient quantum algorithms](Chapter 1/1.3 Efficient quantum algorithms.md)
   * [1.4 Quantum complexity](Chapter 1/1.4 Quantum complexity.md)
-  * [1.5 Quantum parallelism](1.5 Quantum parallelism.md)
+  * [1.5 Quantum parallelism](Chapter 1/1.5 Quantum parallelism.md)
 
