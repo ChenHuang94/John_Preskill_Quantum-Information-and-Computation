@@ -10,4 +10,5 @@
   * [1.6 A new classification of complexity](Chapter 1/1.6 A new classification of complexity.md)
   * [1.7 What about errors?](Chapter 1/1.7 What about errors.md)
   * [1.8 Quantum error-correcting codes](Chapter 1/1.8 Quantum error-correcting codes.md)
+  * [1.9 Quantum hardware](1.9 Quantum hardware.md)
 
